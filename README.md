@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/gk-labs-devops-jh-dfo/smarthotel360/_apis/build/status/jeholmes.ContosoAir?branchName=master)](https://dev.azure.com/gk-labs-devops-jh-dfo/smarthotel360/_build/latest?definitionId=8&branchName=master)
 
 # Microsoft.Github CI Demo
 
